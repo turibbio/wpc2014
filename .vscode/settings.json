@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/403624a6-e899-4d2b-95df-ec6353be64a8/resourceGroups/wpc2024/providers/Microsoft.Web/sites/wpc2024",
+    "appService.deploySubpath": "checkme"
+}
